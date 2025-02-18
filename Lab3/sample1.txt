@@ -1,1 +1,6 @@
-Sample to create 4 commits
+4 commits
+1
+2
+3
+4
+
